@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #f8f8f8;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-Index: 1000
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #3333;
+    font-weight: bold;
+}
